@@ -1,5 +1,3 @@
-
-Member Automatic Renewal Service Agreement
 In order to use the software and services, you should read and abide by the Software License Agreement (hereinafter referred to as (this Agreement). Or use a separate agreement for a service and choose to accept or not. Restrictions, disclaimers may be bolded to your attention.
 
 You have no right to download, install or use this software and related services unless you have read and accepted all the terms of this agreement. Your download, installation, login and other usage behaviors are deemed that you have read and agreed to be bound by the above agreement. If you are under the age of 18, please read this agreement and other above agreements accompanied by your legal guardian, and pay special attention to the terms of use for minors
