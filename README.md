@@ -1,4 +1,3 @@
-# Eula_VicoWidget_us
 
 Member Automatic Renewal Service Agreement
 In order to use the software and services, you should read and abide by the Software License Agreement (hereinafter referred to as (this Agreement). Or use a separate agreement for a service and choose to accept or not. Restrictions, disclaimers may be bolded to your attention.
